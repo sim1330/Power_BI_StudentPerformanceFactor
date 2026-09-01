@@ -20,7 +20,7 @@ Filters all visuals by student motivation (High, Medium, Low) to evaluate its im
 - School Type by Gender (Bar Chart): Compares total enrollment counts across Public and Private institutions, broken down by gender.
 - Exam Score by Parental Education (Line Chart): Maps performance trends against parental education, showing higher mean scores for students whose parents hold Postgraduate qualifications compared to College or High School.
 - Learning Disabilities (Pie Chart): Shows the actual student proportion with diagnosed learning needs (10.52% Yes vs. 89.48% No).
-- Exam Score by Distance (Top Right Line Chart): Illustrates exam score variations based on school proximity, segmented by motivation levels (High, Medium, Low).
+- Exam Score by Distance (Top Right Line Chart): Illustrates exam score variations based on school proximity, segmented by access to resources (High, Medium, Low).
 
 **Middle Row Charts (Performance Drivers & Correlations):**
 - Exam Score by Hours Studied (Scatter Plot with Trendline): Highlights the positive linear correlation between weekly study hours and student exam performance.
